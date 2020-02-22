@@ -1,5 +1,5 @@
 import java.util.*;
-public class GenGap {
+public class GenerationalTranslator {
 
     public static String change(String m) {
         String n = m.toLowerCase();
